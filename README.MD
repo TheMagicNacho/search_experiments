@@ -8,20 +8,28 @@ However, if there is an error validating the input will allow the system to incr
 
 *Times with no error*
 **validating**
+```
 Loopy1 Search Result:  [182]
 loopy1 Search Time:  0.00014543533325195312
+```
+
 **non-validating**
+```
 Loopy2 Search Result:  [182]
 loopy2 Search Time:  0.00013685226440429688
+```
 
 *Times with an input error*
 **validating**
+```
 Loopy1 Search Result:  -1
 loopy1 Search Time:  3.814697265625e-05
+```
 **non-validating**
-
+```
 Loopy2 Search Result:  []
 loopy2 Search Time:  0.00010371208190917969
+```
 
 ### 20210511
 When trying to apply the integer search algorethems with an object the entire program fails.

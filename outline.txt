@@ -1,0 +1,17 @@
+Open Script
+
+Load the Script 
+    def LoadScript():
+        for loop through script create a list   
+
+
+Load the Bin. Add each clip as 
+    For loop through bin 
+        For loop clips in bin
+            For loop the keyword meta data in a dictionary.
+## Esentially make a dictionary of all the objects and its keywords
+
+
+Seach the dictionary for any word that matches the script search word, return the key.
+
+
